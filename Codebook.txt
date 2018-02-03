@@ -1,0 +1,24 @@
+Tidy Data Variable Information
+
+activity : activity performed by subject
+subject: study subject ID
+
+The mean and standard deviation for the following accelerometer and gyroscope measurements are provided in the data table.  There are three directions for each measurement (X, Y, or Z).  The measurements are presented in both the time domain (Time_) and frequency domain (Frequency_).  For the frequency domain conversion, the measurements were sampled at a constant 50 Hz.
+
+Time_Body_Accelerometer_XYZ
+Time_Gravity_Accelerometer_XYZ
+Time_Body_Accelerometer_JerkXYZ
+Time_Body_Gyroscope_XYZ
+Time_Body_Gyroscope_JerkXYZ
+Time_Body_Accelerometer_Mag
+Time_Gravity_Accelerometer_Mag
+Time_Body_Accelerometer_JerkMag
+Time_Body_Gyroscope_Mag
+Time_Body_Gyroscope_JerkMag
+Frequency_Body_Accelerometer_XYZ
+Frequency_Body_Accelerometer_JerkXYZ
+Frequency_Body_Gyroscope_XYZ
+Frequency_Body_Accelerometer_Mag
+Frequency_Body_Accelerometer_JerkMag
+Frequency_Body_Gyroscope_Mag
+Frequency_Body_Gyroscope_JerkMag
